@@ -4,7 +4,7 @@ Motivated and detail-oriented Data Science student with proficiency in developin
 # Technical Skills
 - Programming Languages: Python; R; SQL
 - Libraries: Pandas; Numpy; Tensorflow; Keras; Scipy; Scikit-Learn; Seaborn; Matplotlib; XGBoost; LightGBM; CatBoost; Apache Spark; Yaml; NLTK; Spacy; PyTorch
-- Cloud/Databases: MySQL, Docker, Git, Databricks, MongoDB, Neo4j
+- Tools & Technologies: MySQL, Docker, Git, Databricks, MongoDB, Neo4j
 - Business Intelligence: Power BI; Tableau
 - Data Analytics: Microsoft Excel; Caseware IDEA    
 
